@@ -9,7 +9,7 @@
 
 # Description
 
-Todo Application APi using Laravel
+Todo Application API using Laravel
 
 ## Build Setup
 
